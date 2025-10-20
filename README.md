@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abuzaid</h1>
 <h3 align="center">"I'm an undergraduate student embarking on an exhilarating journey through the realms of Data Science and Machine Learning. With Python as my trusted tool, I navigate the dynamic world of technology, uncovering innovative solutions and crafting meaningful impact."</h3>
 
-<img alt="coding" width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif" 
-     style="display: block; margin: 0 auto;">
+<div style="text-align: center;">
+    <img alt="coding" width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
+</div>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abuzaid-01" alt="abuzaid-01" /></a> </p>
 
